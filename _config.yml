@@ -25,7 +25,7 @@ markdown: kramdown
 kramdown:
   input: GFM
 
-remote_theme: starving-artist-jekyll-theme
+remote_theme: chrisanthropic/starving-artist-jekyll-theme
   
 # Plugins
 gems:
