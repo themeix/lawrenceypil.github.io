@@ -1,9 +1,19 @@
-# Starving Artist Jekyll Theme
-![Starving Artist Jekyll Theme screenshot](screenshot.png)
+---
+layout: page
+title: installation
+permalink: "/documentation/installation/"
+---   
+# Installation
+This theme is compatible with Jekyll 2.2 Gem Themes as well as older versions of Jekyll.    
+You can install:
+- [As a Gem Theme On a Brand New Site](#start-a-new-site)
+- [As a Gem Theme On an Existing Site](#migrate-an-existing-site)
+- [Jekyll 2.1 Method (Git Clone)](#jekyll-original-method)
 
-# Install as Gem Theme
+## Install as Gem Theme
 Jekyll requires Ruby so make sure Ruby is installed before you begin.
 
+--------
 ### Start a New Site
 - Install Jekyll and Bundler
   - `gem install bundler`
@@ -27,7 +37,7 @@ Jekyll requires Ruby so make sure Ruby is installed before you begin.
   - Open your `css/style.css` and change the line `@import "minima;"` to this:
     - `@import "starving-artist";`
 
-
+--------
 ### Migrate an Existing Site
 **NOTE** This requires you to be upgraded to at least Jekyll 3.2 which added support for themes.
 
@@ -42,7 +52,8 @@ Jekyll requires Ruby so make sure Ruby is installed before you begin.
   - Open your `css/style.css` and change the line `@import "minima;"` to this:
     - `@import "starving-artist";`
 
-# Jekyll 2.x Method
+--------
+## Jekyll Original Method
 Jekyll requires Ruby so make sure Ruby is installed before you begin.
 
 - Download this site
