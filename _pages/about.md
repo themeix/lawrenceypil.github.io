@@ -3,7 +3,7 @@ title: About
 subtitle:
 description:
 featured_image: /images/main.jpg
-layout: page-notitle
+layout: page-notitle-nofooter
 permalink: /about/
 ---
 
