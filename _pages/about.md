@@ -1,35 +1,13 @@
 ---
-title: About Journal
-subtitle: A stunning personal blog Jekyll theme with an image-focused design.
-description: A stunning personal blog Jekyll theme with an image-focused design.
-featured_image: /images/demo/demo-portrait.jpg
+title: About
+subtitle:
+description:
+featured_image: /images/main.jpg
+layout: page-notitle
 ---
 
-![](/images/demo/demo-landscape.jpg)
+Lawrence Lacambra Ypil is an award-winning poet and essayist whose work explores the intersection of text and image, and the role of material culture in the construction of cultural memory and identity. 
 
-## Features
+In 2019, he received the inaugural Gaudy Boy Poetry Book Prize for *The Experiment of the Tropics*, which was longlisted for the Believer Book Awards and was a finalist for the Lambda Literary Awards.
 
-Journal is packed with powerful features to showcase your work:
-
-* Beautiful, minimal design
-* Fixed sidebar images that animate as you browse
-* Single column post layout
-* Responsive – works perfectly on all devices
-* Portfolio/projects post type to show your work
-* Blog with pagination
-* Sleek Ajax navigation and page transitions
-* Unique 'gallery' feature for image grids and carousels
-* Built-in contact form with Formspree integration
-* Full markdown support and code highlighting
-* Social media icons
-* Fast page rendering
-* Built with SEO best practices in mind
-* Customize everything – colors, spacing, fonts, sizes etc. – via a simple settings file
-* Works with GitHub Pages
-* Updated and supported by the developers
-
-## Get Index
-
-Journal is created and supported by [Jekyll Themes](https://jekyllthemes.io), and is available for $49.
-
-<a href="https://jekyllthemes.io/theme/journal-personal-jekyll-theme" class="button button--large">Get This Theme</a>
+Lawrence has received MFAs from Washington University in St. Louis and from the Nonfiction Writing Program of the University of Iowa. He teaches creative writing at Yale-NUS College.

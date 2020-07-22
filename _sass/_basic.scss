@@ -291,8 +291,8 @@ hr {
 	background: $border-color;
 }
 
-::selection 	 { background: $accent-color; color: $background-color; }
-::-moz-selection { background: $accent-color; color: $background-color; }
+::selection 	 { background: $accent-color; color: $text_dark_color; }
+::-moz-selection { background: $accent-color; color: $text_dark_color; }
 
 
 
@@ -498,4 +498,14 @@ section {
 		font-size: 15px;
 		@include translate(0,30px);
 	}
+}
+
+@font-face {  /* Added this section */
+    font-family: "Action-Sans";
+    src: url("../assets/action-sans/ActionSans-Regular.otf") format("opentype");
+}
+
+@font-face {  /* Added this section */
+    font-family: "Quezon";
+    src: url("../assets/action-sans/Quezon.ttf") format("truetype");
 }

@@ -6,7 +6,7 @@ basic_settings:
 header_settings:
   logo_image: 
   logo_width: 200
-  overlay_opacity: 0.6
+  overlay_opacity: 0.7
 
 menu_settings:
   menu_items:
@@ -29,12 +29,12 @@ grid_settings:
 
 contact_settings:
   form_action: ''
-  confirmation_url: '/thanks'
-  email_subject: 'Contact form submission'
-  send_button_text: 'Send Message'
+  confirmation_url: 
+  email_subject: 
+  send_button_text: 
 
 social_settings:
-  facebook_url: 'facebook.com'
+  facebook_url: ''
   twitter_url: ''
   instagram_url: ''
   snapchat_url: ''
@@ -62,21 +62,21 @@ social_settings:
   linkedin_url: ''
 
 color_settings:
-  background_color: '#ffffff'
-  background_alt_color: '#F5F7FA'
-  text_dark_color: '#2A2F36'
-  text_medium_color: '#6C7A89'
+  background_color: '#fdfbf1'
+  background_alt_color: '#fdfbf3'
+  text_dark_color: '#08090a'
+  text_medium_color: '#727476'
   text_light_color: '#ABB7B7'
-  accent_color: '#A2DED0'
+  accent_color: '#B4D5FE'
   border_color: '#dddddd'
   overlay_background_color: '#161B21'
-  overlay_text_color: '#ffffff'
+  overlay_text_color: '#ABB7B7'
   error_color: '#D64541'
 
 font_settings:
   font_embed: '<link href="https://fonts.googleapis.com/css?family=Merriweather:300,400|Muli:400,400i,600" rel="stylesheet">'
   title_font: '"Merriweather", sans-serif'
-  body_font: '"Muli", sans-serif'
+  body_font: '"Action-Sans", sans-serif'
   regular_weight: 400
   bold_weight: 600
   site_title:
