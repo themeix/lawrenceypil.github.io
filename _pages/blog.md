@@ -3,7 +3,7 @@ title: Blog
 subtitle:
 description:
 featured_image: /images/main.jpg
-layout: page-notitle-nofooter
+layout: page-notitle
 permalink: /blog/
 ---
 
