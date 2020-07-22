@@ -1,11 +1,35 @@
 ---
-layout: about
-title: about
-logo: "images/author.jpg"
-permalink: "/about/"
---- 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+title: About Journal
+subtitle: A stunning personal blog Jekyll theme with an image-focused design.
+description: A stunning personal blog Jekyll theme with an image-focused design.
+featured_image: /images/demo/demo-portrait.jpg
+---
 
-Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+![](/images/demo/demo-landscape.jpg)
 
-Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+## Features
+
+Journal is packed with powerful features to showcase your work:
+
+* Beautiful, minimal design
+* Fixed sidebar images that animate as you browse
+* Single column post layout
+* Responsive – works perfectly on all devices
+* Portfolio/projects post type to show your work
+* Blog with pagination
+* Sleek Ajax navigation and page transitions
+* Unique 'gallery' feature for image grids and carousels
+* Built-in contact form with Formspree integration
+* Full markdown support and code highlighting
+* Social media icons
+* Fast page rendering
+* Built with SEO best practices in mind
+* Customize everything – colors, spacing, fonts, sizes etc. – via a simple settings file
+* Works with GitHub Pages
+* Updated and supported by the developers
+
+## Get Index
+
+Journal is created and supported by [Jekyll Themes](https://jekyllthemes.io), and is available for $49.
+
+<a href="https://jekyllthemes.io/theme/journal-personal-jekyll-theme" class="button button--large">Get This Theme</a>
