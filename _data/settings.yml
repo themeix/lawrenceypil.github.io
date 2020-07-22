@@ -6,18 +6,23 @@ basic_settings:
 header_settings:
   logo_image: 
   logo_width: 200
-  overlay_opacity: 0.1
+  overlay_opacity: 0.6
 
 menu_settings:
   menu_items:
-    - title: 'Latest'
-      url: '/'
-    - title: 'Projects'
-      url: '/projects/'
     - title: 'About'
-      url: '/about'
+      url: '/about/'
+    - title: 'Publications'
+      url: '/publications/'
+    - title: 'Events'
+      url: '/events/'
+    - title: 'Interviews'
+      url: '/interviews/'
+    - title: 'Blog'
+      url: '/blog/'
     - title: 'Contact'
-      url: '/contact'
+      url: '/contact/'
+
 
 grid_settings:
   grid_spacing: 10
@@ -29,7 +34,7 @@ contact_settings:
   send_button_text: 'Send Message'
 
 social_settings:
-  facebook_url: ''
+  facebook_url: 'facebook.com'
   twitter_url: ''
   instagram_url: ''
   snapchat_url: ''

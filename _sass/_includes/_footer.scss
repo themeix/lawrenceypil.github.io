@@ -43,12 +43,12 @@
 	}
 
 	a {
-		margin-left: 10px;
-		color: $text-light-color;
+		margin-left: 0px;
+		color: $text-medium-color;
 		font-weight: $regular-weight;
 
 		&:hover {
-			color: $text-medium-color;
+			color: $text-dark-color;
 		}
 	}
 }
