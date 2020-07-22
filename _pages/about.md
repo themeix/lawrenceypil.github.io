@@ -4,6 +4,7 @@ subtitle:
 description:
 featured_image: /images/main.jpg
 layout: page-notitle
+permalink: /about/
 ---
 
 Lawrence Lacambra Ypil is an award-winning poet and essayist whose work explores the intersection of text and image, and the role of material culture in the construction of cultural memory and identity. 
