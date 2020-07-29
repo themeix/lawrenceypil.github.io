@@ -6,9 +6,9 @@ featured_image: /images/main.jpg
 layout: page-notitle
 permalink: /
 ---
-**“Direct and eye-opening...profoundly lucid."** [*-The Millions*](https://themillions.com/books-reviews/the-experiment-of-the-tropics-poems-0982814259)
+**“Direct and eye-opening...profoundly lucid."** *-[The Millions](https://themillions.com/books-reviews/the-experiment-of-the-tropics-poems-0982814259)*
 
-**"A careful investigation of a rich and variegated place."** [*- Hong Kong Review of Books*](https://hkrbooks.com/2019/05/27/beds-in-the-east-and-the-experiment-of-the-tropics/)
+**"A careful investigation of a rich and variegated place."** *-[Hong Kong Review of Books](https://hkrbooks.com/2019/05/27/beds-in-the-east-and-the-experiment-of-the-tropics/)*
 
 <figure>
 <a href="https://www.amazon.com/Experiment-Tropics-Lawrence-Lacambra-Ypil/dp/0982814259">
