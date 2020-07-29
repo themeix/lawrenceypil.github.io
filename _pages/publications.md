@@ -51,12 +51,12 @@ Spare, musical, and erotic, *The Experiment of the Tropics* uses the intersectio
     alt="The Highest Hiding Place"
     style="height:50vh; display:block; float:left; width:auto; padding-left:70px; padding-right:15px">
 
-* Madrigal-Gonzalez First Book Award winner, 2011
-* Gintong Aklat Awards for English Literature finalist, 2010
-
 ###### *"In the context of the kinds of poetry that continue to tell people that it’s a form that’s too difficult, a cultural product that’s only for the educated and the elite, the ones who speak in English and are from urban Manila, Ypil’s poems refuse this question of easy or difficult...In and through Ypil’s words, we come to a particular space in this country, the kind that is his secret, but which becomes ours as well."* - Katrina Santiago [\[read\] ](https://katrinasantiago.com/the-sadness-of-here-in-ypils-highest-hiding-place/)
 
 ###### *"Reading Ypil is meeting oneself in memory, that of the poet’s and one’s own, and in that encounter, affirm everything that one had gone through &mdash; pain, fear, lust, love, the interminable secrets that are always converging and fading, and converging in every moment of one’s ordinary day, and even in one’s dreams. And we find our own hiding place."* — Merlie Alunan
+
+* Madrigal-Gonzalez First Book Award winner, 2011
+* Gintong Aklat Awards for English Literature finalist, 2010
 
 ---
 
