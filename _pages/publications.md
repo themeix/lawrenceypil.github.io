@@ -49,7 +49,7 @@ Spare, musical, and erotic, *The Experiment of the Tropics* uses the intersectio
 
 <img src="/images/highesthiding.jpg"
     alt="The Highest Hiding Place"
-    style="height:50vh; display:block; float:left; width:auto; padding-left:70px; padding-right:15px">
+    style="height:60vh; display:block; float:left; width:auto; padding-left:70px; padding-right:15px">
 
 ###### *"In the context of the kinds of poetry that continue to tell people that it’s a form that’s too difficult, a cultural product that’s only for the educated and the elite, the ones who speak in English and are from urban Manila, Ypil’s poems refuse this question of easy or difficult...In and through Ypil’s words, we come to a particular space in this country, the kind that is his secret, but which becomes ours as well."* - Katrina Santiago [\[read\] ](https://katrinasantiago.com/the-sadness-of-here-in-ypils-highest-hiding-place/)
 
