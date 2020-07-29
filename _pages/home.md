@@ -13,7 +13,7 @@ permalink: /
 <figure>
 <a href="https://www.amazon.com/Experiment-Tropics-Lawrence-Lacambra-Ypil/dp/0982814259">
 <img src="/images/experiment.jpg"
-    alt="Experiment of the Tropics"
+    alt="The Experiment of the Tropics"
     style="max-height:70vh; display: block; margin-left:auto; margin-right:auto; width:auto">
 </a>
 
