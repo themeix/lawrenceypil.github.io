@@ -1,10 +1,10 @@
 ---
 title: Interviews
-subtitle:
-description:
-featured_image: /images/main.jpg
+permalink: "/interviews/"
+subtitle: 
+description: 
+featured_image: "/images/main.jpg"
 layout: page-notitle
-permalink: /interviews/
 ---
 
 **2020**
