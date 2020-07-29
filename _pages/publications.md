@@ -7,4 +7,14 @@ layout: page-notitle
 permalink: /publications/
 ---
 
-Publications
+Books | Articles/Poems | Edited Anthologies | Collaborations
+
+Lots of text here.
+
+#### Books
+
+#### Articles/Poems
+
+#### Edited Anthologies
+
+#### Collaborations
