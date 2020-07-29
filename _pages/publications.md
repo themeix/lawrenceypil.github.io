@@ -7,7 +7,7 @@ layout: page-notitle
 permalink: /publications/
 ---
 
-<center><a href="#sectionbooks">Books</a> - <a href="#sectionarticlespoems">Articles/Poems</a> - <a href="#sectionanthologies">Edited Anthologies</a> - <a href="#sectioncollaborations">Collaborations</a> </center>
+<center><a href="#sectionbooks">Books</a> - <a href="#sectionarticlespoems">Articles/Poems</a> - <a href="#sectioncollaborations">Collaborations</a> </center>
 
 ---
 ### Books<a name="sectionbooks"></a>
@@ -32,7 +32,5 @@ Spare, musical, and erotic, The Experiment of the Tropics uses the intersection 
     - Praise number two
 
 ##### Articles/Poems<a name="sectionarticlespoems"></a>
-
-##### Edited Anthologies<a name="sectionanthologies"></a>
 
 ##### Collaborations<a name="sectioncollaborations"></a>
