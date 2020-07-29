@@ -1,12 +1,11 @@
 ---
 title: Events
-permalink: "/events/"
-subtitle: 
-description: 
-featured_image: "/images/main.jpg"
+subtitle:
+description:
+featured_image: /images/main.jpg
 layout: page-notitle
+permalink: /events/
 ---
-
 **Upcoming**
 * event 1
 

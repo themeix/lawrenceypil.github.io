@@ -1,43 +1,48 @@
----
-title: Lawrenceypil.Github.Io
-timezone: UTC
-collections:
-  pages:
-    title: Pages
-    output: true
-    permalink: name
-  posts:
-    title: Posts
-    output: true
-  uploads:
-    title: Uploads
-    output: true
-defaults:
-- scope:
-    path: ''
-  values:
-    layout: default
-- scope:
-    path: ''
-    type: pages
-  values:
-    layout: page
-- scope:
-    path: ''
-    type: posts
-  values:
-    layout: post
 site: Lawrence Ypil
+
 url: https://lawrenceypil.com
 baseurl: 
+
+collections:
+  pages:
+    output: true
+    permalink: :name
+  posts:
+    output: true
+    permalink: /blog/:slug
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
 markdown: kramdown
+
 kramdown:
   input: GFM
   syntax_highlighter: rouge
+  
 sass:
   style: compressed
+
 plugins:
-- jekyll-paginate
-- jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-sitemap
+
 paginate: 6
 paginate_path: "/blog/page:num/"
+  

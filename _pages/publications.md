@@ -1,10 +1,10 @@
 ---
 title: Publications
-permalink: "/publications/"
-subtitle: 
-description: 
-featured_image: "/images/main.jpg"
+subtitle:
+description:
+featured_image: /images/main.jpg
 layout: page-notitle
+permalink: /publications/
 ---
 
 <center><a href="#sectionbooks">Books</a> - <a href="#sectionarticlespoems">Articles/Poems</a> - <a href="#sectioncollaborations">Collaborations</a> </center>
