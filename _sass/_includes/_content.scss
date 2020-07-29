@@ -200,7 +200,8 @@
 	}
 
 	table {
-		border: 0px solid $text-dark-color;
+		min-width: 600px;
+		border: 2px solid $text-dark-color;
 
 		thead {
 			background: $text-dark-color;
