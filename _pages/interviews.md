@@ -9,7 +9,6 @@ permalink: /interviews/
 
 **2020**
 * Creatives' Questionnaire - CNN Philippines [\[read\]](https://www.cnnphilippines.com/life/culture/Creatives-Questionnaire/2020/4/24/larry-ypil.html)
-* Next line
 
 **2019**
 * Q&A with Lawrence Ypil - ANC [\[read\]](https://news.abs-cbn.com/ancx/culture/books/07/07/19/qanda-with-poet-lawrence-ypil)
