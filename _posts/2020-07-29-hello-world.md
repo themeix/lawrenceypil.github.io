@@ -1,6 +1,5 @@
 ---
 ---
-
 The first line of the blog post is shown as a blurb.
 
 Skip a line to start a new paragraph...
