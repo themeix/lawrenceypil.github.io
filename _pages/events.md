@@ -7,7 +7,7 @@ layout: page-notitle
 permalink: /events/
 ---
 **Upcoming**
-* event 1
+* New Encounters / New Works, Philippine Lit Reading Group Reading, SingLit Station [\[about\]](https://www.facebook.com/events/3126961227410910/)
 
 **Current**
 * Jalan Besar Writer-in-Residence, 2019-2020 [\[about\]](http://www.singlitstation.com/residency)
