@@ -13,4 +13,4 @@ permalink: /events/
 * Jalan Besar Writer-in-Residence, 2019-2020 [\[about\]](http://www.singlitstation.com/residency)
 
 **Past**
-* event 1
+* Lit Balm: The Gaudy Boy Showcase, with Jenifer Sang Eun Park and Paula Mendoza [\[watch\]](https://www.facebook.com/watch/?v=246145516392970)
