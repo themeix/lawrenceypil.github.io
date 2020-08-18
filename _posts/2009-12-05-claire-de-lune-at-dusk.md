@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Claire de Lune at Dusk"
+date: 2009-12-05 00:00:00
 ---
 Some afternoons here seem like a dream.
 

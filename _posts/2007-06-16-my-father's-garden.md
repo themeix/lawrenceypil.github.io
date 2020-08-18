@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "My Father's Garden"
+date: 2007-06-16 00:00:00
 ---
 While there are things that we spend most of our lives trying to avoid inheriting from our fathers---
 

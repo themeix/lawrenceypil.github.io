@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Drain of Thought"
+date: 2007-11-10 00:00:00
 ---
 And because our toilet in the house has conked out, given up...
 

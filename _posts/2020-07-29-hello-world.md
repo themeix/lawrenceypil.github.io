@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Hello World"
+date: 2020-07-29 00:00:00
 ---
 The first line of the blog post is shown as a blurb.
 
