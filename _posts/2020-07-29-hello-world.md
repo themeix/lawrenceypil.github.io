@@ -1,4 +1,6 @@
 ---
+layout: post
+title: "Hello World"
 ---
 The first line of the blog post is shown as a blurb.
 
