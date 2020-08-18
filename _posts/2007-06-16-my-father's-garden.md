@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "My Father's Garden"
 date: 2007-06-16 00:00:00
 ---

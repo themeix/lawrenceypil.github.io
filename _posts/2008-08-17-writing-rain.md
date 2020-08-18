@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Writing Rain"
 date: 2008-08-17 00:00:00
 ---

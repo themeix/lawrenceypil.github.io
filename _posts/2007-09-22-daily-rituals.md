@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Daily Rituals"
 date: 2007-09-22 00:00:00
 ---

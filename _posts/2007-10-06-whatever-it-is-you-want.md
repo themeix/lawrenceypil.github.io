@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Whatever It Is You Want"
 date: 2007-10-06 00:00:00
 ---

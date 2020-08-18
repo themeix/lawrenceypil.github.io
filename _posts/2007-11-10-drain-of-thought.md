@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Drain of Thought"
 date: 2007-11-10 00:00:00
 ---
