@@ -1,6 +1,7 @@
 ---
 title: "My Father's Garden"
 date: 2007-06-16 00:00:00
+featured_image: /images/blog/myfathersgarden.png
 ---
 While there are things that we spend most of our lives trying to avoid inheriting from our fathers---
 
@@ -14,4 +15,6 @@ Needless to say, my brother and I grew up in what you could consider the ripe an
 
 One time, perhaps in an attempt to understand my all-consuming passion for words and books, my dad told me that the reason why I need to read every day is the same reason why he needs to "touch the soil."" And although it may seem that this was needlessly romanticizing the practical and manual labor needed in gardening (and therefore giving it more credit and mystique than it deserved), I have always thought that it was the other way around. Compared to root and weed, words are easy. You can erase them without having to deal with the tedium of soil and sun. You can visit them any time of the day, and they need not die on you. Bad weather is, if not sometimes then most of the time, good enough fertilizer for writing. And words are permanent; pages seem like rocks more than shrubs. After words are published and read, you can throw these away, and they will live longer and livelier without you.
 
-On the other hand, gardens are needy things. They need human touch. They are vulnerable to bad winds. They don't last long. They need constant love; I can never ever muster enough for words. Gardens do not last forever. And that's why they are beautiful.
+On the other hand, gardens are needy things. They need human touch. They are vulnerable to bad winds. They don't last long. They need constant love; I can never ever muster enough for words. Gardens do not last forever. And that's why they are beautiful. &#8718;
+
+*Photo from SunStar Cebu, where this piece was originally published.*
