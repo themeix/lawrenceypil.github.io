@@ -1,6 +1,6 @@
 ---
 title: "Daily Rituals"
-date: 2007-09-22 00:00:00
+date: 2020-09-01 00:00:00
 featured_image: /images/blog/dailyrituals.png
 ---
 In the past few weeks, I have found myself going to mass everyday---
@@ -21,4 +21,4 @@ But on a regular basis, the church usually becomes a strange congregation of cha
 
 And then there's you. You who found yourself, for no particular reason, going out of the house, and walking two short blocks to the church on a day like all others. Without intention, or plea, or unheard prayer. Without heavy heart, sitting at the back, and looking at the cross. And thinking that this day, like all the days after this, will perhaps be the perfect day to be still, for an hour, to be free of commitment and choice, in the midst of strangers, to be briefly, and fully, oneself. &#8718;
 
-*Photo from SunStar Cebu, where this piece was originally published.*
+*Photo from SunStar Cebu, where this piece was originally published on September 22, 2007.*

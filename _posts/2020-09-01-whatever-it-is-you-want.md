@@ -1,6 +1,6 @@
 ---
 title: "Whatever It Is You Want"
-date: 2007-10-06 00:00:00
+date: 2020-09-01 00:00:00
 featured_image: /images/blog/whateveritis.png
 ---
 If there's anything at all that can keep me on hold---
@@ -25,4 +25,4 @@ Because words belong to the deaf and the mute, then they are ours. Because they 
 
 Who will not stop the day for this? Words, words, telling us: "I will give you. I will give whatever it is you want." &#8718;
 
-*Photo from SunStar Cebu, where this piece was originally published.*
+*Photo from SunStar Cebu, where this piece was originally published on October 6, 2007.*

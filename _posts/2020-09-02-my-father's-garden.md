@@ -1,6 +1,6 @@
 ---
 title: "My Father's Garden"
-date: 2007-06-16 00:00:00
+date: 2020-09-02 00:00:00
 featured_image: /images/blog/myfathersgarden.png
 ---
 While there are things that we spend most of our lives trying to avoid inheriting from our fathers---
@@ -17,4 +17,4 @@ One time, perhaps in an attempt to understand my all-consuming passion for words
 
 On the other hand, gardens are needy things. They need human touch. They are vulnerable to bad winds. They don't last long. They need constant love; I can never ever muster enough for words. Gardens do not last forever. And that's why they are beautiful. &#8718;
 
-*Photo from SunStar Cebu, where this piece was originally published.*
+*Photo from SunStar Cebu, where this piece was originally published on June 16, 2007.*

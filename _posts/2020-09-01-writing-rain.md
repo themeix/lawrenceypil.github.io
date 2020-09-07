@@ -1,6 +1,6 @@
 ---
 title: "Writing Rain"
-date: 2008-08-17 00:00:00
+date: 2020-09-01 00:00:00
 ---
 When I think of rain...
 
@@ -23,3 +23,5 @@ I wonder if I prefer that rain that comes with lightning and thunder, that wakes
 Sometimes the rain does not stop, and gutters turn into rivers, and streets into streams, and mountains bleed down into their valleys and cover rocks and trees and houses and the people that live in houses and the water level reaches the roofs, the height of electric poles and birds that sit on them in sunny days but not today, today, the birds are nowhere to be found. But I try to avoid thinking about this. (I plan to extend this section to really give that sense of flooding.)
 
 Besides, the rain never really likes to think about itself. It likes to think of rains of years ago, or rains to come: late downpours of youth, future early showers. It likes to think of warm rooms, and old songs. It likes to think of new ways of saying the same thing over and over. It likes to go in one direction: down. &#8718;
+
+First published in SunStar Cebu in August 2008.

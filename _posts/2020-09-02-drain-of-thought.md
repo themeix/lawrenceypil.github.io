@@ -1,6 +1,6 @@
 ---
 title: "Drain of Thought"
-date: 2007-11-10 00:00:00
+date: 2020-09-02 00:00:00
 featured_image: /images/blog/drainofthought.png
 ---
 And because our toilet in the house has conked out, given up...
@@ -22,4 +22,4 @@ What to make of the old clunking drainage of a house? Sometimes a broken branch 
 
 Sometimes, we just need to find some other place to relieve ourselves. &#8718;
 
-*Photo from SunStar Cebu, where this piece was originally published.*
+*Photo from SunStar Cebu, where this piece was originally published on November 10, 2007.*

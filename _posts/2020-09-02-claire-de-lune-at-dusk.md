@@ -1,6 +1,6 @@
 ---
 title: "Claire de Lune at Dusk"
-date: 2009-12-05 00:00:00
+date: 2020-09-02 00:00:00
 featured_image: /images/blog/clairedelune.png
 ---
 Some afternoons here seem like a dream.
@@ -17,4 +17,4 @@ These morning piano masters became the early models for those brief but wonderfu
 
 At some point, my parents wanted me to go to a studio to record my piano playing. Whether it was because they prophesied the end of these music days (right up until I was 15), or they knew that I would eventually leave the house and study in Manila, I don't know. It never happened though, and now I wish sometimes that it did. Partly for their sake, considering that I spend most of the year away from home, and if I had a child I'd probably want a piece of the music he once played. But also partly for myself: to finally figure out, for sure, whether I was any good. To have a remnant of the past on some tape. To remind myself, as one needs to remind oneself when one grows old, the kind of sound that it takes, on the piano or otherwise, to make a whole house, even for one more time, happy. &#8718;
 
-*Photo from SunStar Cebu, where this piece was originally published.*
+*Photo from SunStar Cebu, where this piece was originally published on December 15, 2009.*
