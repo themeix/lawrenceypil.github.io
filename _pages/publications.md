@@ -72,6 +72,7 @@ Spare, musical, and erotic, *The Experiment of the Tropics* uses the intersectio
 ### Articles<a name="sectionarticles"></a>
 
 * Kobo Abe's *Beasts Head for Home* and the Question of Home - *Cha: An Asian Literary Journal*, June 2017 [\[read\]](https://www.asiancha.com/content/view/2764/621/)
+* Impermanent Residencies - *Philippines Free Press*, January 2007 [\[read\]](/impermanent-residencies/)
 
 ---
 
