@@ -1,11 +1,9 @@
 ---
 title: "Daily Rituals"
 date: 2020-09-01 00:00:00
-featured_image: /images/blog/dailyrituals.png
+featured_image: /images/dog-ears/dailyrituals.png
 ---
-In the past few weeks, I have found myself going to mass everyday---
-
----6:30 in the morning when I'm lucky enough to find myself back home early the night before and therefore ready and fit enough to have a full night's sleep and face the unnerving silence of the dawn.
+In the past few weeks, I have found myself going to mass everyday, 6:30 in the morning when I'm lucky enough to find myself back home early the night before and therefore ready and fit enough to have a full night's sleep and face the unnerving silence of the dawn.
 
 Or at 6:30 in the evening, after a long day of reading, or talking to students, or pretending (as what usually happens half the time) that I am well on the way to writing a paper that is long overdue.
 

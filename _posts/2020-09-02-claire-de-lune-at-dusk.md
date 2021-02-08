@@ -1,11 +1,9 @@
 ---
 title: "Claire de Lune at Dusk"
 date: 2020-09-02 00:00:00
-featured_image: /images/blog/clairedelune.png
+featured_image: /images/dog-ears/clairedelune.png
 ---
-Some afternoons here seem like a dream.
-
-Just yesterday, straight from a three-hour poetry class, I step out into a glowing field of music. The Christmas lights of the field have been turned on: long streams of bulbs hanging like hair on the dark heads of trees. Piano notes stretch their long and invisible arms into the darkening field. *Claire de Lune* was playing, or was it Chopin? Like the background music to a play or a show. If I didn't know better, I would have thought I was in a movie.
+Some afternoons here seem like a dream. Just yesterday, straight from a three-hour poetry class, I step out into a glowing field of music. The Christmas lights of the field have been turned on: long streams of bulbs hanging like hair on the dark heads of trees. Piano notes stretch their long and invisible arms into the darkening field. *Claire de Lune* was playing, or was it Chopin? Like the background music to a play or a show. If I didn't know better, I would have thought I was in a movie.
 
 Today, of course, is the day that Raul Sunico visits the school for a free concert. And in joyous celebration, all the lights have been turned on, a speaker stands right in front of the church's entrance for the rest of the campus to hear this music, and if only I didn't just come from a class where my last words were "see you next meeting," I'd have sworn it was already the end of the term.
 

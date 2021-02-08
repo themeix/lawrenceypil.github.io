@@ -1,6 +1,27 @@
 // - - - - - - - - - - - - - - - - - -
 
-// Basics
+// Scott added to make homepage image change color when moused over
+
+.homepage-image {
+&:hover {
+    opacity: 0.85;
+    }
+}
+
+.image-holder {
+  position: relative;
+  max-height: 100vh;
+  max-width: 65vh;
+  margin-left: auto;
+  margin-top: 4vh;
+  margin-right: auto;
+  display: block;
+  background-color: $accent_color;
+}
+
+.subtle-link {
+    color: $text-dark-color;
+}
 
 // - - - - - - - - - - - - - - - - - -
 
@@ -198,7 +219,7 @@ blockquote {
 
 a {
 	text-decoration: none;
-	color: $text-dark-color;
+	color: $error-color;
 	font-weight: $bold-weight;
 	@include transition(all 0.15s ease-in-out);
 

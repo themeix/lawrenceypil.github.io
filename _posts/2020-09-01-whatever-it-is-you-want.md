@@ -1,11 +1,9 @@
 ---
 title: "Whatever It Is You Want"
 date: 2020-09-01 00:00:00
-featured_image: /images/blog/whateveritis.png
+featured_image: /images/dog-ears/whateveritis.png
 ---
-If there's anything at all that can keep me on hold---
-
----in thrall, still and breathless, willing to hold off the call of the world of work, even for a day, then it would have to be a good book.
+If there's anything at all that can keep me on hold, in thrall, still and breathless, willing to hold off the call of the world of work, even for a day, then it would have to be a good book.
 
 Or a good poem. Or a line written in red on the old wall at the edge of the village that said: "WAS HERE," or "AM HERE," or "IN LOVE."
 
@@ -15,7 +13,7 @@ Just words really. On the page. Or on a bike. Or whispered to someone you did no
 
 How to explain? How to explain words, which grab you by the throat even if they do not intend murder. Do not intend threat.
 
-Like the wrong letter that found its right owner. Like the shrapnel found on the walls of your old house: vestiges from a war that was not yours, and which you survived. Like missent text that make you smile: “Meet you at the corner 10:30 pm.” And you want to answer: “Yes. yes. on *da* way.”
+Like the wrong letter that found its right owner. Like the shrapnel found on the walls of your old house: vestiges from a war that was not yours, and which you survived. Like missent text that make you smile: "Meet you at the corner 10:30 pm." And you want to answer: "Yes. yes. on *da* way."
 
 Because to love words is to pretend that your unrequited love is returned. That the world was speaking even if it was miles away, and quiet, and had no way of returning your call. That there was meaning (so full of meaning!) in the emptiest pots, in the biggest halls, in small gestures.
 

@@ -18,8 +18,8 @@ menu_settings:
       url: '/events/'
     - title: 'Interviews'
       url: '/interviews/'
-    - title: 'Blog'
-      url: '/blog/'
+    - title: 'Dog Ears'
+      url: '/dog-ears/'
     - title: 'Contact'
       url: '/contact/'
 
@@ -71,7 +71,7 @@ color_settings:
   border_color: '#dddddd'
   overlay_background_color: '#161B21'
   overlay_text_color: '#ABB7B7'
-  error_color: '#D64541'
+  error_color: '#02479d'
 
 font_settings:
   font_embed: '<link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400&family=Open+Sans:ital,wght@0,400;0,600;1,400;1,600&display=swap" rel="stylesheet">'

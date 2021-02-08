@@ -6,11 +6,22 @@ featured_image: /images/main.jpg
 layout: page-notitle
 permalink: /events/
 ---
-**Upcoming**
-* New Encounters / New Works, Philippine Lit Reading Group Reading, SingLit Station [\[about\]](https://www.facebook.com/events/3126961227410910/)
 
-**Current**
-* Jalan Besar Writer-in-Residence, 2019-2020 [\[about\]](http://www.singlitstation.com/residency)
+<center><b><a class="subtle-link" href="#sectionevents">Events</a></b></center>
 
-**Past**
-* Lit Balm: The Gaudy Boy Showcase, with Jenifer Sang Eun Park and Paula Mendoza [\[watch\]](https://www.facebook.com/watch/?v=246145516392970)
+---
+
+#### Upcoming
+
+
+<hr style="width:20%">
+
+#### <a name="sectionevents"></a>Past
+
+[New Encounters / New Works](https://www.facebook.com/SingLitStation/videos/729452287613287), Philippine Lit Reading Group Reading, SingLit Station, August 2020
+
+[Lit Balm: The Gaudy Boy Showcase](https://www.facebook.com/watch/?v=246145516392970), with Jenifer Sang Eun Park and Paula Mendoza, August 2020
+
+[Jalan Besar Writer-in-Residence](http://www.singlitstation.com/residency), 2019-2020
+
+[Poetry as Embodied Speech](https://www.academic-medicine.edu.sg/educationconference2019/symposium/health-and-the-humanities-music-arts-and-poetry), Singhealth Duke-NUS Education Conference, September 2019

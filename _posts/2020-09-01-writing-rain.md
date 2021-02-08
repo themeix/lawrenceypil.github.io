@@ -2,9 +2,7 @@
 title: "Writing Rain"
 date: 2020-09-01 00:00:00
 ---
-When I think of rain...
-
-...I think of writing. When I think of the months, June, July, August, when the rains start, and the typhoons come, leave, storms start, stop, gutters fill with water, water levels rise and then recede, I think of the days and nights of writing. I think of the hours whose distinct pleasures lie in staying indoors, sitting on a chair at the desk by the window writing.
+When I think of rain, I think of writing. When I think of the months, June, July, August, when the rains start, and the typhoons come, leave, storms start, stop, gutters fill with water, water levels rise and then recede, I think of the days and nights of writing. I think of the hours whose distinct pleasures lie in staying indoors, sitting on a chair at the desk by the window writing.
 
 I wonder if it has to do with the sound the rain makes upon roofs—the closest one gets to  monsoon music,  typhoon tempo: shower or downpour, onslaught, unrelenting or brief: patter. Who will not want to write a poem to such music, if not on the page then in the head; if not in the head then in the ear. Or the finger.
 

@@ -9,7 +9,7 @@ collections:
     permalink: :name
   posts:
     output: true
-    permalink: /blog/:slug
+    permalink: /dog-ears/:slug
 
 defaults:
   -
@@ -43,5 +43,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
+pagination:
+    enabled: true
 paginate: 6
-paginate_path: "/blog/page:num/"
+paginate_path: "/dog-ears/page:num/"
