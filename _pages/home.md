@@ -1,7 +1,7 @@
 ---
 title: Home
 subtitle:
-description:
+description: A home for words.
 featured_image: /images/main.jpg
 layout: page-notitle
 permalink: /
