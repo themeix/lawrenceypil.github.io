@@ -11,7 +11,10 @@ permalink: /interviews/
 
 ---
 
-#### <a name="sectionevents"></a>2020
+#### <a name="sectionevents"></a>2021
+["Nothing needs to happen, but things can change,"](https://www.poetrynw.org/interview-fruitful-and-dangerous-a-conversation-with-lawrence-lacambra-ypil/) Poetry Northwest
+
+#### 2020
 ["Just because there's some kind of drama, doesn't automatically make it a poem,"](https://www.cnnphilippines.com/life/culture/Creatives-Questionnaire/2020/4/24/larry-ypil.html) CNN Philippines
 
 #### 2019
