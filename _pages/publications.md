@@ -45,7 +45,7 @@ Spare, musical, and erotic, *The Experiment of the Tropics* uses the intersectio
 
 ###### *"We find ourselves, at the end, with a book that has only revealed a part of its secrets to us. Woken from a dream, we open our eyes to a world that seems a little more beautiful."* - Kendrick Loo, [*Empty Mirror*](https://www.emptymirrorbooks.com/reviews/experiment-tropics-lawrence-lacambra-ypil-review)
 
-##### ***The Highest Hiding Place*** (2009) - <a class="subtle-link" href="http://www.ateneo.edu/ateneopress/product/highest-hiding-place-poems">[Order here]</a>
+##### ***The Highest Hiding Place*** (2009) - <a class="subtle-link" href="https://www.ateneo.edu/ateneopress/product/highest-hiding-place-poems">[Order here]</a>
 
 <img src="/images/highesthiding.jpg"
     alt="The Highest Hiding Place"
@@ -68,7 +68,7 @@ Spare, musical, and erotic, *The Experiment of the Tropics* uses the intersectio
 
 [Night Report / The Hour is a Dirty Pocket](https://www.theliftedbrow.com/liftedbrow/two-poems-by-lawrence-lacambra-ypil) - *The Lifted Brow*, January 2017
 
-[At the Beach](http://www.softblow.org/llypil.html) - *Softblow*, 2009
+[At the Beach](https://www.softblow.org/llypil.html) - *Softblow*, 2009
 
 ---
 
