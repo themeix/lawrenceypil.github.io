@@ -18,7 +18,7 @@ featured_image: /images/main.jpg
 			<h4 class="blog-post__title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h4>
 				<p class="blog-post__subtitle">{{ post.date | date_to_long_string }}</p>
 			</div>
-						{% if post.featured_image %}
+						{% if post.featured_image != '' %}
 			<div class="mild-padding"><a href="{{ post.url | relative_url }}" class="blog-post__image" style="background-image: url({{ post.featured_image | relative_url }});"></a></div>
 			{% endif %}
 			
