@@ -7,4 +7,4 @@ layout: page-notitle
 permalink: /contact/
 ---
 
-Email lawrence.ypil@gmail.com or Instagram DM @lawrenceypil.
+Email <a href="mailto:lawrence.ypil@gmail.com" target="_blank">lawrence [dot] ypil [at] gmail [dot] com</a> or Instagram DM <a href="https://www.instagram.com/lawrenceypil" target="_blank">@lawrenceypil</a>.
