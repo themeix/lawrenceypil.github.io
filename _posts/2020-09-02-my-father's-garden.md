@@ -1,7 +1,8 @@
 ---
-title: "My Father's Garden"
+title: My Father's Garden
 date: 2020-09-02
-featured_image: /images/dog-ears/myfathersgarden.png
+featured_image: "/images/dog-ears/myfathersgarden.png"
+
 ---
 While there are things that we spend most of our lives trying to avoid inheriting from our fathers --- a bad temper, an insistent and unrelenting desire for order, an impatience for mediocrity, even a growing and unavoidable bald spot---there are also those things that we see in our fathers, which, no matter how hard we pray that genetics will finally grant us its rare favor, we know, we just know we will never ever get.
 
