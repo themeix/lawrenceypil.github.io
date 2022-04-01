@@ -22,3 +22,5 @@ fields:
   label: Featured Image
   description: The picture that appears in the left sidebar. Please name the image
     something meaningful before uploading!
+pages:
+- _posts/2020-09-01-writing-rain.md

@@ -1,6 +1,8 @@
 ---
-title: "Writing Rain"
+title: Writing Rain
 date: 2020-09-01
+featured_image: ''
+
 ---
 When I think of rain, I think of writing. When I think of the months, June, July, August, when the rains start, and the typhoons come, leave, storms start, stop, gutters fill with water, water levels rise and then recede, I think of the days and nights of writing. I think of the hours whose distinct pleasures lie in staying indoors, sitting on a chair at the desk by the window writing.
 
