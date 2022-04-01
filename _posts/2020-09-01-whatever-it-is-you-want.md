@@ -1,6 +1,6 @@
 ---
 title: "Whatever It Is You Want"
-date: 2020-09-01 00:00:00
+date: 2020-09-01
 featured_image: /images/dog-ears/whateveritis.png
 ---
 If there's anything at all that can keep me on hold, in thrall, still and breathless, willing to hold off the call of the world of work, even for a day, then it would have to be a good book.
