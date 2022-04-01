@@ -1,6 +1,8 @@
 ---
-title: "Hello World"
+title: Hello World
 date: 2020-09-06
+featured_image: ''
+
 ---
 The first line of the blog post is shown as a blurb.
 
