@@ -4,10 +4,21 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: title
+  label: Post Title
+  config:
+    required: true
 - type: datetime
   name: date
-  label: date
+  label: Post Date
+  description: Backdating is ok.
+  config:
+    date_format: ''
+    time_format: ''
+    export_format: YYY-MM-DD
+    required: true
+  default: now
 - type: file
   name: featured_image
-  label: featured_image
+  label: Featured Image
+  description: The picture that appears in the left sidebar. Please name the image
+    something meaningful before uploading!
