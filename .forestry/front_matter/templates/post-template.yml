@@ -23,6 +23,7 @@ fields:
   description: The picture that appears in the left sidebar. Please name the image
     something meaningful before uploading!
 pages:
+- _posts/2020-09-01-daily-rituals.md
 - _posts/2020-09-01-whatever-it-is-you-want.md
 - _posts/2020-09-01-writing-rain.md
 - _posts/2020-09-02-drain-of-thought.md
