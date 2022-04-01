@@ -1,7 +1,8 @@
 ---
-title: "Drain of Thought"
+title: Drain of Thought
 date: 2020-09-02
-featured_image: /images/dog-ears/drainofthought.png
+featured_image: "/images/dog-ears/drainofthought.png"
+
 ---
 And because our toilet in the house has conked out, given up, has insisted that "flushing" isn't about the water going down the drain but going up to meet you with your quickly growing, yellow reflection, I'm tempted to think this is some sign or symbol or foreboding omen of things to come.
 
