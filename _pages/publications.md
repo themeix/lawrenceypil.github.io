@@ -78,7 +78,7 @@ Spare, musical, and erotic, *The Experiment of the Tropics* uses the intersectio
 
 [A Song of Two Cities](https://cnnphilippines.com/life/leisure/travel/2016/04/19/a-song-of-two-cities.html) - *CNN Philippines*, April 2016
 
-[Impermanent Residencies](/selected-works/impermanent-residencies/) - *Philippines Free Press*, January 2007
+[Impermanent Residencies](/selected-works/impermanent-residencies) - *Philippines Free Press*, January 2007
 
 ---
 
