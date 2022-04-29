@@ -9,7 +9,7 @@ collections:
     permalink: :name
   posts:
     output: true
-    permalink: /dog-ears/:slug
+    permalink: /selected-works/:slug
 
 defaults:
   -
@@ -46,4 +46,4 @@ plugins:
 pagination:
     enabled: true
 paginate: 6
-paginate_path: "/dog-ears/page:num/"
+paginate_path: "/selected-works/page:num/"

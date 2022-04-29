@@ -1,17 +1,8 @@
 ---
 title: Impermanent Residencies
-subtitle:
-description:
-featured_image: /images/main.jpg
-layout: page-notitle
-permalink: /impermanent-residencies/
+date: 2020-09-02
+featured_image: ''
 ---
-### Impermanent Residencies
-
-*First published in the Philippines Free Press, January 2007. Received second prize in the Philippines Free Press Awards (Essay).*
-
---
-
 *Derelict in space ruled by a strange law of motion, I while away the time sketching the idle cartography of a new world. -Resil Mojares*
 
 If other gay men have absent fathers, overly affectionate mothers, or long-lost unmarried uncles to account for their “difference,” I knew very early on that there was nothing else to blame other than my childhood wallpaper. White, and old, and covered with vines that seemed to begin and end nowhere, in a style that must have been extremely popular in the garish seventies when our house was built, my wallpaper was filled with flowers. Yellow dahlias alternated with rhododendrons the color of mauve. Roses formed arcs around a bouquet of petunias. Petals lined the edges. 
@@ -87,3 +78,5 @@ From here, everything has always been crystal clear: you knew the rules of the g
 Although nothing here belongs to you in their proper names, you know them all too well: the red roof, its high beams, the door’s edges. The room at the corner where the sun at dawn hit it brightest.  The house. This one. 
 
 You also know the correct directions for your return. Because to be a guest in one’s house is to live in a room knowing you will lose it. To face a mirror that has memorized your shape enough to break it. To know the right time, the perfect time to leave it. &#8718;
+
+*First published in the Philippines Free Press, January 2007. Received second prize in the Philippines Free Press Awards (Essay).*

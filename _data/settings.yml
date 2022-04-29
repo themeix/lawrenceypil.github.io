@@ -18,8 +18,8 @@ menu_settings:
       url: '/events/'
     - title: 'Interviews'
       url: '/interviews/'
-    - title: 'Dog Ears'
-      url: '/dog-ears/'
+    - title: 'Selected Works'
+      url: '/selected-works/'
     - title: 'Contact'
       url: '/contact/'
 

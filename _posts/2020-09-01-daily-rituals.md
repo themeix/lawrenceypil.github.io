@@ -1,7 +1,7 @@
 ---
 title: Daily Rituals
 date: 2020-09-01
-featured_image: "/images/dog-ears/dailyrituals.png"
+featured_image: "/images/selected-works/dailyrituals.png"
 
 ---
 In the past few weeks, I have found myself going to mass everyday, 6:30 in the morning when I'm lucky enough to find myself back home early the night before and therefore ready and fit enough to have a full night's sleep and face the unnerving silence of the dawn.
