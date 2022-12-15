@@ -11,17 +11,17 @@ header_settings:
 menu_settings:
   menu_items:
     - title: 'About'
-      url: '/about/'
+      url: '/about'
     - title: 'Publications'
-      url: '/publications/'
+      url: '/publications'
     - title: 'Events'
-      url: '/events/'
+      url: '/events'
     - title: 'Interviews'
-      url: '/interviews/'
+      url: '/interviews'
     - title: 'Selected Works'
-      url: '/selected-works/'
+      url: '/selected-works'
     - title: 'Contact'
-      url: '/contact/'
+      url: '/contact'
 
 
 grid_settings:
