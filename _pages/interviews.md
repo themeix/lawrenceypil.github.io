@@ -4,7 +4,7 @@ subtitle:
 description:
 featured_image: /images/main.jpg
 layout: page-notitle
-permalink: /interviews/
+permalink: /interviews
 ---
 
 <center><b><a class="subtle-link" href="#sectioninterviews">Interviews</a></b></center>

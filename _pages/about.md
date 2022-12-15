@@ -4,7 +4,7 @@ subtitle:
 description:
 featured_image:
 layout: page-notitle
-permalink: /about/
+permalink: /about
 ---
 
 <!-- 

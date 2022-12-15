@@ -4,7 +4,7 @@ subtitle:
 description:
 featured_image: /images/main.jpg
 layout: page-notitle
-permalink: /contact/
+permalink: /contact
 ---
 
 Email <a href="mailto:lawrence.ypil@gmail.com" target="_blank">lawrence.ypil@gmail.com</a> or Instagram DM <a href="https://www.instagram.com/lawrenceypil" target="_blank">@lawrenceypil</a>.

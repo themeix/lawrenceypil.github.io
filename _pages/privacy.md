@@ -4,7 +4,7 @@ subtitle:
 description:
 featured_image:
 layout: page-notitle
-permalink: /privacy/
+permalink: /privacy
 ---
 
 **Last updated: 1 April 2022**

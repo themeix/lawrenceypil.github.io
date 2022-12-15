@@ -4,7 +4,7 @@ subtitle:
 description:
 featured_image: /images/main.jpg
 layout: page-notitle
-permalink: /events/
+permalink: /events
 ---
 
 <center><b><a class="subtle-link" href="#sectionevents">Events</a></b></center>
