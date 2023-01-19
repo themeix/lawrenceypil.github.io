@@ -10,5 +10,5 @@ permalink: /contact
 Email <a href="mailto:lawrence.ypil@gmail.com" target="_blank">lawrence.ypil@gmail.com</a> or Instagram DM <a href="https://www.instagram.com/lawrenceypil" target="_blank">@lawrenceypil</a>.
 
 <p style="font-size: 15px">
-Web dev &#38; design by <a target="_blank" href="scottleechua.com">Scott Lee Chua</a>. 
+Web dev by <a target="_blank" href="scottleechua.com">Scott Lee Chua</a>. Powered by <a target="_blank" href="jekyllrb.com/">Jekyll</a> with the <a target="_blank" href="jekyllthemes.io/theme/journal-personal-jekyll-theme">Journal theme</a>.
 </p>
