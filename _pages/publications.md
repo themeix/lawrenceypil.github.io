@@ -7,7 +7,7 @@ layout: page-notitle
 permalink: /publications
 ---
 
-<center><a class="subtle-link" href="#sectionbooks">Books</a> - <a class="subtle-link" href="#sectionpoems">Poems</a> -  <a class="subtle-link" href="#sectionessays">Essays</a> - <a class="subtle-link" href="#sectioncollaborations">Collaborations</a> </center>
+<center><a class="subtle-link" href="#sectionbooks">Books</a> - <a class="subtle-link" href="#sectionpoems">Poems</a> -  <a class="subtle-link" href="#sectionessays">Essays</a> - <a class="subtle-link" href="#sectionotherworks">Other Works</a> </center>
 
 ---
 ### Books<a name="sectionbooks"></a>
@@ -82,6 +82,6 @@ Spare, musical, and erotic, *The Experiment of the Tropics* uses the intersectio
 
 ---
 
-### Collaborations<a name="sectioncollaborations"></a>
+### Other Works<a name="sectionotherworks"></a>
 
 [Writing the Philippines](https://chajournal.blog/category/issue-40-writing-the-philippines/) - Guest co-editor, *Cha: An Asian Literary Journal,* July 2018
