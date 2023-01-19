@@ -7,6 +7,11 @@ layout: page-notitle
 permalink: /events
 ---
 
+<center><b><a class="subtle-link" href="#sectionevents">Events</a></b></center>
+
+---
+<a name="sectionevents"></a>
+
 [New Encounters / New Works](https://www.facebook.com/SingLitStation/videos/729452287613287), Philippine Lit Reading Group Reading, SingLit Station, August 2020
 
 [Lit Balm: The Gaudy Boy Showcase](https://www.facebook.com/watch/?v=246145516392970), with Jenifer Sang Eun Park and Paula Mendoza, August 2020
