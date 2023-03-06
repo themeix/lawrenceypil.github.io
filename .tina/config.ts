@@ -53,7 +53,7 @@ export default defineConfig({
           },
           {
             type: "image",
-            name: "image",
+            name: "featured_image",
             label: "Featured Image",
           },
           {
@@ -98,6 +98,17 @@ export default defineConfig({
             name: "layout",
             label: "Layout",
             required: true,
+            list: true,
+            options: [
+              {
+                value: "page",
+                label: "Page",
+              },
+              {
+                value: "page-notitle",
+                label: "Page (No Title)",
+              },
+            ],
           },
           {
             type: "string",
@@ -105,6 +116,11 @@ export default defineConfig({
             label: "Title",
             isTitle: true,
             required: true,
+          },
+          {
+            type: "image",
+            name: "featured_image",
+            label: "Featured Image",
           },
           {
             type: "string",
