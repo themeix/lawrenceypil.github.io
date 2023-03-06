@@ -1,9 +1,9 @@
 ---
+layout: page-notitle
 title: Events
 subtitle:
-description:
+link-preview:
 featured_image: /assets/images/main.jpg
-layout: page-notitle
 permalink: /events
 ---
 

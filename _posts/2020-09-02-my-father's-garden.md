@@ -1,6 +1,8 @@
 ---
+layout: post
 title: My Father's Garden
 date: 2020-09-02
+link-preview:
 featured_image: "/assets/images/selected-works/myfathersgarden.png"
 
 ---

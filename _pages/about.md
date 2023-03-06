@@ -1,9 +1,8 @@
 ---
+layout: page-notitle
 title: About
 subtitle:
-description:
-featured_image:
-layout: page-notitle
+link-preview:
 permalink: /about
 ---
 
