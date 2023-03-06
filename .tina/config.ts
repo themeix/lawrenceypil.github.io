@@ -30,6 +30,13 @@ export default defineConfig({
             name: "layout",
             label: "Layout",
             required: true,
+            list: true,
+            options: [
+              {
+                value: "post",
+                label: "Post",
+              },
+            ],
           },
           {
             type: "string",
@@ -45,9 +52,9 @@ export default defineConfig({
             required: true,
           },
           {
-            type: "string",
-            name: "categories",
-            label: "Categories",
+            type: "image",
+            name: "image",
+            label: "Featured Image",
           },
           {
             type: "rich-text",
@@ -56,6 +63,14 @@ export default defineConfig({
             isBody: true,
           },
         ],
+        defaultItem: () => {
+          return {
+            // Return a default title and the current date as the default date
+            layout: "post",
+            title: "New Post",
+            date: new Date().toISOString(),
+          }
+        },
         ui: {
           filename: {
             readonly: true,
@@ -67,7 +82,7 @@ export default defineConfig({
         
               let currentDate = `${year}-${month}-${day}`;
         
-              return `${currentDate}-${values?.title?.toLowerCase().replace(/ /g, '-')}`
+              return `${currentDate}-${values?.title?.toLowerCase().replace(/ /g, '-')}.md`
             }
           }
         },
@@ -108,7 +123,7 @@ export default defineConfig({
           filename: {
             readonly: true,
             slugify: values => {        
-              return `${values?.title?.toLowerCase().replace(/ /g, '-')}`
+              return `${values?.title?.toLowerCase().replace(/ /g, '-')}.md`
             }
           }
         },
