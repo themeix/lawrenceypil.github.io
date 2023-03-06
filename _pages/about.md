@@ -7,7 +7,7 @@ layout: page-notitle
 permalink: /about
 ---
 
-<img src="/images/main.jpg"
+<img src="/assets/images/main.jpg"
 alt="Lawrence Ypil"
 width="300"/>
 

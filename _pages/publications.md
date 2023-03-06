@@ -2,7 +2,7 @@
 title: Publications
 subtitle:
 description:
-featured_image: /images/main.jpg
+featured_image: /assets/images/main.jpg
 layout: page-notitle
 permalink: /publications
 ---
@@ -14,7 +14,7 @@ permalink: /publications
 
 ##### ***The Experiment of the Tropics*** (2019) - <a class="subtle-link" href="https://www.amazon.com/Experiment-Tropics-Lawrence-Lacambra-Ypil/dp/0982814259">[Order here]</a>
 
-<img src="/images/experiment.jpg"
+<img src="/assets/images/experiment.jpg"
     alt="The Experiment of the Tropics"
     style="height:50vh; display:block; float:left; width:auto; padding-left:70px; padding-right:15px">
     
@@ -47,7 +47,7 @@ Spare, musical, and erotic, *The Experiment of the Tropics* uses the intersectio
 
 ##### ***The Highest Hiding Place*** (2009) - <a class="subtle-link" href="https://www.ateneo.edu/ateneopress/product/highest-hiding-place-poems">[Order here]</a>
 
-<img src="/images/highesthiding.jpg"
+<img src="/assets/images/highesthiding.jpg"
     alt="The Highest Hiding Place"
     style="height:60vh; display:block; float:left; width:auto; padding-left:70px; padding-right:20px">
 

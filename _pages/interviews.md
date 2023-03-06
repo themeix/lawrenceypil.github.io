@@ -2,7 +2,7 @@
 title: Interviews
 subtitle:
 description:
-featured_image: /images/main.jpg
+featured_image: /assets/images/main.jpg
 layout: page-notitle
 permalink: /interviews
 ---
