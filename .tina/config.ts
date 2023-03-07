@@ -80,7 +80,7 @@ export default defineConfig({
         
               let currentDate = `${year}-${month}-${day}`;
         
-              return `${currentDate}-${values?.title?.toLowerCase().replace(/ /g, '-')}.md`
+              return `${currentDate}-${values?.title?.toLowerCase().replace(/ /g, '-')}`
             }
           }
         },
