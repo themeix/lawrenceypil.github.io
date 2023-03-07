@@ -51,11 +51,6 @@ export default defineConfig({
             required: true,
           },
           {
-            type: "string",
-            name: "link_preview",
-            label: "Link Preview Text",
-          },
-          {
             type: "image",
             name: "featured_image",
             label: "Featured Image",
