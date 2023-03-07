@@ -1,7 +1,6 @@
 basic_settings:
   site_title: Lawrence Ypil
-  site_author: Lawrence Ypil
-  site_tagline: 
+  site_tagline:
   favicon_image:
 
 header_settings:
@@ -75,7 +74,7 @@ color_settings:
   error_color: '#02479d'
 
 font_settings:
-  font_embed: '<link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400&family=Open+Sans:ital,wght@0,400;0,600;1,400;1,600&display=swap" rel="stylesheet">'
+  font_embed: '<link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400&family=Open+Sans:ital,wght@0,400;0,600;1,400;1,600&display=swap" rel="stylesheet" />'
   title_font: '"Merriweather", serif'
   body_font: '"Open Sans", sans-serif'
   regular_weight: 400
