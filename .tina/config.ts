@@ -117,11 +117,6 @@ export default defineConfig({
           },
           {
             type: "string",
-            name: "subtitle",
-            label: "Subtitle",
-          },
-          {
-            type: "string",
             name: "link_preview",
             label: "Link Preview Text",
           },
