@@ -1,8 +1,7 @@
 ---
 layout: page-notitle
 title: Home
-subtitle:
-link_preview:
+link_preview: ""
 featured_image: /assets/images/main.jpg
 permalink: /
 ---

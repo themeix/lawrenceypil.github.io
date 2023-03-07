@@ -1,8 +1,7 @@
 ---
 layout: page-notitle
 title: Privacy Policy
-subtitle:
-link_preview:
+link_preview: ""
 permalink: /privacy
 ---
 
