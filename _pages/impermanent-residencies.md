@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Impermanent Residencies
-link_preview: ""
+link_preview: "Derelict in space ruled by a strange law of motion, I while away the time sketching the idle cartography of a new world. -Resil Mojares"
 featured_image: ""
 permalink: /publications/impermanent-residencies
 ---
