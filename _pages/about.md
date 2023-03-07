@@ -9,7 +9,7 @@ permalink: /about
 
 <img src="/assets/images/main.jpg"
 alt="Lawrence Ypil"
-width="300"/>
+width="300" />
 
 Lawrence Lacambra Ypil is an award-winning poet and essayist whose work explores the intersection of text and image, and the role of material culture in the construction of cultural identity. 
 
