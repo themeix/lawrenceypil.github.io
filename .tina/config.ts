@@ -149,7 +149,7 @@ export default defineConfig({
           filename: {
             readonly: true,
             slugify: values => {        
-              return `${values?.title?.toLowerCase().replace(/ /g, '-')}.md`
+              return `${values?.title?.toLowerCase().replace(/ /g, '-')}`
             }
           }
         },

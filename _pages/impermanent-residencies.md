@@ -77,6 +77,6 @@ From here, everything has always been crystal clear: you knew the rules of the g
 
 Although nothing here belongs to you in their proper names, you know them all too well: the red roof, its high beams, the door’s edges. The room at the corner where the sun at dawn hit it brightest.  The house. This one. 
 
-You also know the correct directions for your return. Because to be a guest in one’s house is to live in a room knowing you will lose it. To face a mirror that has memorized your shape enough to break it. To know the right time, the perfect time to leave it. &#8718;
+You also know the correct directions for your return. Because to be a guest in one’s house is to live in a room knowing you will lose it. To face a mirror that has memorized your shape enough to break it. To know the right time, the perfect time to leave it. ∎
 
 *First published in the Philippines Free Press, January 2007. Received second prize in the Philippines Free Press Awards (Essay).*
