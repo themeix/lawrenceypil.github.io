@@ -9,7 +9,7 @@
     "build": "yarn run tinacms build && bundle exec jekyll build"
   },
   "keywords": [],
-  "author": "",
+  "author": "Lawrence Ypil",
   "license": "ISC",
   "dependencies": {
     "@tinacms/cli": "^1.2.2",
