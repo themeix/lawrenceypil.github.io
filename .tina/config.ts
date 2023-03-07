@@ -30,7 +30,6 @@ export default defineConfig({
             name: "layout",
             label: "Layout",
             required: true,
-            list: true,
             options: [
               {
                 value: "post",
@@ -103,7 +102,6 @@ export default defineConfig({
             name: "layout",
             label: "Layout",
             required: true,
-            list: true,
             options: [
               {
                 value: "page",
