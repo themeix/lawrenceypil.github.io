@@ -60,6 +60,7 @@ export default defineConfig({
             type: "image",
             name: "featured_image",
             label: "Featured Image",
+            required: true,
           },
           {
             type: "rich-text",
