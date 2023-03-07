@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Claire de Lune at Dusk
-date: 2020-09-02
+date: '2023-02-27T16:00:00.000Z'
 featured_image: /assets/images/selected-works/clairedelune.png
 ---
 
@@ -15,6 +15,6 @@ I'm also here for the sake of my dad, who is a huge fan of this music, in genera
 
 These morning piano masters became the early models for those brief but wonderful years I spent at the piano. Pascual or Sunico's styles became the bar I was expected to reach. *Evergreen* was to be played the way they would. *Somewhere in Time* had the same inflections and pauses, even if at times I opted to play them faster than they should have been played. It was my parents one wish that I play Chopin's *Nocturne* in E flat major. When you're young, the pleasure and joys of one's parents become the shaping force of one's days, the permeating rhythm, the model upon which any form of success was their smile.
 
-At some point, my parents wanted me to go to a studio to record my piano playing. Whether it was because they prophesied the end of these music days (right up until I was 15), or they knew that I would eventually leave the house and study in Manila, I don't know. It never happened though, and now I wish sometimes that it did. Partly for their sake, considering that I spend most of the year away from home, and if I had a child I'd probably want a piece of the music he once played. But also partly for myself: to finally figure out, for sure, whether I was any good. To have a remnant of the past on some tape. To remind myself, as one needs to remind oneself when one grows old, the kind of sound that it takes, on the piano or otherwise, to make a whole house, even for one more time, happy. &#8718;
+At some point, my parents wanted me to go to a studio to record my piano playing. Whether it was because they prophesied the end of these music days (right up until I was 15), or they knew that I would eventually leave the house and study in Manila, I don't know. It never happened though, and now I wish sometimes that it did. Partly for their sake, considering that I spend most of the year away from home, and if I had a child I'd probably want a piece of the music he once played. But also partly for myself: to finally figure out, for sure, whether I was any good. To have a remnant of the past on some tape. To remind myself, as one needs to remind oneself when one grows old, the kind of sound that it takes, on the piano or otherwise, to make a whole house, even for one more time, happy. ∎
 
 *Photo from SunStar Cebu, where this piece was originally published on December 15, 2009.*
