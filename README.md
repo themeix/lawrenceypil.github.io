@@ -7,3 +7,4 @@ Backend for [my personal website](https://lawrenceypil.com).
 - Delete Larry's Forestry
 - Fix markdown editing
 - Width of sidebar flickers
+- Delete test post and page
