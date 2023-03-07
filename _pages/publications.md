@@ -2,7 +2,7 @@
 layout: page-notitle
 title: Publications
 subtitle:
-link-preview:
+link_preview:
 featured_image: /assets/images/main.jpg
 permalink: /publications
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Claire de Lune at Dusk
 date: 2020-09-02
-link-preview:
+link_preview:
 featured_image: /assets/images/selected-works/clairedelune.png
 
 ---

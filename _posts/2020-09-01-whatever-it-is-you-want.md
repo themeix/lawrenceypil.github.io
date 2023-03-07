@@ -2,7 +2,7 @@
 layout: post
 title: Whatever It Is You Want
 date: 2020-09-01
-link-preview:
+link_preview:
 featured_image: /assets/images/selected-works/whateveritis.png
 
 ---

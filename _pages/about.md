@@ -2,7 +2,7 @@
 layout: page-notitle
 title: About
 subtitle:
-link-preview:
+link_preview:
 permalink: /about
 ---
 

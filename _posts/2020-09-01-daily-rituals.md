@@ -2,7 +2,7 @@
 layout: post
 title: Daily Rituals
 date: 2020-09-01
-link-preview:
+link_preview:
 featured_image: /assets/images/selected-works/dailyrituals.png
 
 ---

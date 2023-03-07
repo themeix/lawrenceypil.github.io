@@ -2,7 +2,7 @@
 layout: post
 title: Drain of Thought
 date: 2020-09-02
-link-preview:
+link_preview:
 featured_image: "/assets/images/selected-works/drainofthought.png"
 
 ---
