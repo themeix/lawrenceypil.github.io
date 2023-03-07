@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Daily Rituals
-date: 2020-09-01
+date: '2023-03-02T16:00:00.000Z'
 featured_image: /assets/images/selected-works/dailyrituals.png
 ---
 
@@ -19,6 +19,6 @@ But of masses that happen within the week? The church becomes a totally differen
 
 But on a regular basis, the church usually becomes a strange congregation of characters. There are the women in brown who belong to the Catholic Women's League, and the old couples whose children you know have grown up and left. There are those who enter the church with severely troubled looks on their faces, and you know that they have come to ask for something from the Lord. There is the woman whose maid fans her when she kneels. The man who has just finished his morning jog. Two sisters in identical school uniforms give each other, and no one else, the sign of the peace.
 
-And then there's you. You who found yourself, for no particular reason, going out of the house, and walking two short blocks to the church on a day like all others. Without intention, or plea, or unheard prayer. Without heavy heart, sitting at the back, and looking at the cross. And thinking that this day, like all the days after this, will perhaps be the perfect day to be still, for an hour, to be free of commitment and choice, in the midst of strangers, to be briefly, and fully, oneself. &#8718;
+And then there's you. You who found yourself, for no particular reason, going out of the house, and walking two short blocks to the church on a day like all others. Without intention, or plea, or unheard prayer. Without heavy heart, sitting at the back, and looking at the cross. And thinking that this day, like all the days after this, will perhaps be the perfect day to be still, for an hour, to be free of commitment and choice, in the midst of strangers, to be briefly, and fully, oneself. ∎
 
 *Photo from SunStar Cebu, where this piece was originally published on September 22, 2007.*

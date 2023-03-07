@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Drain of Thought
-date: 2020-09-02
+date: '2023-03-05T16:00:00.000Z'
 featured_image: /assets/images/selected-works/drainofthought.png
 ---
 
@@ -20,6 +20,6 @@ For as much as we would like our lives to be the stuff of novels, our days (glad
 
 What to make of the old clunking drainage of a house? Sometimes a broken branch means nothing. Sometimes an afternoon dream of a bird swooping down to peck the neck of a passing cat means everything. O gods, help us tell the difference!
 
-Sometimes, we just need to find some other place to relieve ourselves. &#8718;
+Sometimes, we just need to find some other place to relieve ourselves. ∎
 
 *Photo from SunStar Cebu, where this piece was originally published on November 10, 2007.*
