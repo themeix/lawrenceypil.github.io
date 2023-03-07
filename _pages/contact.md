@@ -1,8 +1,6 @@
 ---
 layout: page-notitle
 title: Contact
-subtitle:
-link_preview:
 featured_image: /assets/images/main.jpg
 permalink: /contact
 ---

@@ -1,9 +1,6 @@
 ---
 layout: page-notitle
 title: About
-subtitle:
-link_preview:
-featured_image:
 permalink: /about
 ---
 
