@@ -5,8 +5,8 @@ const branch = process.env.HEAD || "main";
 
 export default defineConfig({
   branch,
-  clientId: "b4e66bfb-45a8-4a1f-801d-3bf21ceb793a", // process.env.CLIENT_ID,
-  token: "a895c68caad27493b99b52a2832b4980cb2900df", //process.env.READ_TOKEN,
+  clientId: process.env.CLIENT_ID,
+  token: process.env.READ_TOKEN,
   build: {
     outputFolder: "admin",
     publicFolder: "./",
