@@ -2,6 +2,7 @@
 layout: page-notitle
 title: Privacy Policy
 link_preview: ""
+featured_image: ""
 permalink: /privacy
 ---
 

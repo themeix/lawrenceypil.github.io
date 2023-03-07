@@ -1,6 +1,7 @@
 ---
 layout: page-notitle
 title: Contact
+link_preview: Email lawrence.ypil@gmail.com or Instagram DM @lawrenceypil.
 featured_image: /assets/images/main.jpg
 permalink: /contact
 ---
