@@ -1,6 +1,5 @@
 import { defineConfig } from "tinacms";
 
-// Your hosting provider likely exposes this as an environment variable
 const branch = process.env.HEAD || "main";
 
 export default defineConfig({
@@ -140,9 +139,9 @@ export default defineConfig({
         ],
         defaultItem: () => {
           return {
-            // Return a default title and the current date as the default date
             layout: "page",
             title: "New Page",
+            link_preview: "",
             permalink: "/new-page",
           }
         },
