@@ -52,6 +52,11 @@ export default defineConfig({
             required: true,
           },
           {
+            type: "string",
+            name: "link_preview",
+            label: "Link Preview Text",
+          },
+          {
             type: "image",
             name: "featured_image",
             label: "Featured Image",
@@ -118,6 +123,16 @@ export default defineConfig({
             required: true,
           },
           {
+            type: "string",
+            name: "subtitle",
+            label: "Subtitle",
+          },
+          {
+            type: "string",
+            name: "link_preview",
+            label: "Link Preview Text",
+          },
+          {
             type: "image",
             name: "featured_image",
             label: "Featured Image",
@@ -135,6 +150,14 @@ export default defineConfig({
             isBody: true,
           },
         ],
+        defaultItem: () => {
+          return {
+            // Return a default title and the current date as the default date
+            layout: "page",
+            title: "New Page",
+            permalink: "/new-page"
+          }
+        },
         ui: {
           filename: {
             readonly: true,
