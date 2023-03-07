@@ -2,10 +2,9 @@
 layout: post
 title: Drain of Thought
 date: 2020-09-02
-link_preview:
-featured_image: "/assets/images/selected-works/drainofthought.png"
-
+featured_image: /assets/images/selected-works/drainofthought.png
 ---
+
 And because our toilet in the house has conked out, given up, has insisted that "flushing" isn't about the water going down the drain but going up to meet you with your quickly growing, yellow reflection, I'm tempted to think this is some sign or symbol or foreboding omen of things to come.
 
 I guess you can say that it's because I read a lot of stories. When you're a lover of literature, you almost can't help but look for signs. As when the suspicious-looking man with the odd hat turns out to be the detonator of a bomb, or a long-lost father. Or when flowers on the wallpaper eventually become the central metaphor for the main character's dilemma. In stories, birds aren't just birds, and a tree branch falling is the end of an affair.

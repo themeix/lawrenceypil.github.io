@@ -2,7 +2,6 @@
 layout: post
 title: My Father's Garden
 date: '2023-03-06T16:00:00.000Z'
-link_preview: Test link preview.
 featured_image: /assets/images/selected-works/myfathersgarden.png
 ---
 

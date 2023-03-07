@@ -2,10 +2,9 @@
 layout: post
 title: Whatever It Is You Want
 date: 2020-09-01
-link_preview:
 featured_image: /assets/images/selected-works/whateveritis.png
-
 ---
+
 If there's anything at all that can keep me on hold, in thrall, still and breathless, willing to hold off the call of the world of work, even for a day, then it would have to be a good book.
 
 Or a good poem. Or a line written in red on the old wall at the edge of the village that said: "WAS HERE," or "AM HERE," or "IN LOVE."
